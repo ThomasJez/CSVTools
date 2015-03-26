@@ -1,0 +1,13 @@
+{
+  "name": "SimpleCSV/SimpleCSV",
+  "autoload": {
+    "psr-4": {
+      "SimpleCSV\\": "src/SimpleCSV"
+    }
+  },
+  "authors": [
+    {
+      "name": "Thomas Jez"
+    }
+  ]
+}
