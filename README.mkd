@@ -1,0 +1,5 @@
+# SimpleCSV
+
+A simple library which converts a CSV File into a PHP object.
+
+
