@@ -1,5 +1,8 @@
-# SimpleCSV
+# CSVTools
 
-A simple library which converts a CSV File into a PHP object.
+Consists of two methods for now:
+
+- one converts a CSV file into a PHP object.
+- the second converts a vCard file (tested only for version 3.0) into a CSV file
 
 
